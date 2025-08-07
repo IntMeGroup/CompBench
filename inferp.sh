@@ -1,0 +1,2 @@
+export CUDA_VISIBLE_DEVICES=2
+python example_prompt.py
